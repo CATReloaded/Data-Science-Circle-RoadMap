@@ -118,12 +118,12 @@ APIs <br>
 5. Inferential stats <br>
 [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
 [course](https://www.coursera.org/learn/statistical-inferences)<br>
-6.Bayesian stats.
+6.Bayesian stats.<br>
 [1](https://www.coursera.org/learn/bayesian-statistics)<br>
 [2](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
 [3](https://www.coursera.org/learn/mixture-models)<br>
 
-6. Probabilistic Graphical Models <br>[Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
+7. Probabilistic Graphical Models <br>[Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 
 ***
 
