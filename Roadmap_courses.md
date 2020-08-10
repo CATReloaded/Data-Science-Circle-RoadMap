@@ -125,7 +125,7 @@ APIs <br>
 [3](https://www.coursera.org/learn/mixture-models)<br>
 8.  Tableau <br>
 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-[docs](**https://www.tableau.com/learn/training/20201**)<br>
+[docs](https://www.tableau.com/learn/training/20201)<br>
 [course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
 7. Probabilistic Graphical Models <br>[Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 ***
