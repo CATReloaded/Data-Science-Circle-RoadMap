@@ -108,12 +108,12 @@ APIs <br>
 1. Deep Learning <br>
 [Specialization](https://www.coursera.org/specializations/deep-learning)<br>
 
-2. Tensorflow..
+2. Tensorflow..<br>
 [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)<br>
 
-3. Advanced Data Science+ apache spark
+3. Advanced Data Science+ apache spark<br>
 [Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
-4. NLP 
+4. NLP <br>
 [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
 
 5. Inferential stats <br>
@@ -123,9 +123,11 @@ APIs <br>
 [1](https://www.coursera.org/learn/bayesian-statistics)<br>
 [2](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
 [3](https://www.coursera.org/learn/mixture-models)<br>
-
+8.  Tableau <br>
+[Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
+[docs](**https://www.tableau.com/learn/training/20201**)<br>
+[course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
 7. Probabilistic Graphical Models <br>[Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
-
 ***
 
 ## ...MORE yet to come in this section..
