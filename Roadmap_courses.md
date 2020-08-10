@@ -123,11 +123,19 @@ APIs <br>
 [1](https://www.coursera.org/learn/bayesian-statistics)<br>
 [2](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
 [3](https://www.coursera.org/learn/mixture-models)<br>
-8.  Tableau <br>
+7.  Tableau <br>
 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-[docs](https://www.tableau.com/learn/training/20201)<br>
+[docs](**https://www.tableau.com/learn/training/20201**)<br>
 [course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
-7. Probabilistic Graphical Models <br>[Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
+8. Model Deployment <br>
+[Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
+[Specialization with TF](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
+[Guided project](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
+
+> more to be added here..
+
+
+10. Probabilistic Graphical Models <br>[Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 ***
 
 ## ...MORE yet to come in this section..
