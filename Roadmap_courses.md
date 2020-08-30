@@ -108,6 +108,8 @@ APIs <br>
 
 1. Deep Learning <br>
 [Specialization](https://www.coursera.org/specializations/deep-learning)<br>
+[Book](https://d2l.ai/d2l-en.pdf?fbclid=IwAR0sVdA8VFYpNZCpYZHgo_kl_HYrjcjDfjEka26D8xRWAhbhh6mmSNIXg3U)<br>
+[github of Dive into DL](https://github.com/d2l-ai/d2l-en?fbclid=IwAR0QN35b-NHHWq_zKISA1cbI063aRqqoKqR_0e3cpnT5h58GkcNbCIJs3iw)
 
 2. Tensorflow..<br>
 [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)<br>
