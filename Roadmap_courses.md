@@ -30,6 +30,8 @@
 4. Pandas<br>
 [Tutorial](https://www.kaggle.com/learn/pandas)<br>
 [Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
+[course1](https://learn.datacamp.com/courses/pandas-foundations)<br>
+[course2](https://learn.datacamp.com/courses/manipulating-dataframes-with-pandas)<br>
 5. Numpy<br>
 [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
 [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
@@ -126,9 +128,9 @@ APIs <br>
 [1](https://www.coursera.org/learn/bayesian-statistics)<br>
 [2](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
 [3](https://www.coursera.org/learn/mixture-models)<br>
-7.  Tableau <br>
+7. Tableau <br>
 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-[docs](**https://www.tableau.com/learn/training/20201**)<br>
+[docs](https://www.tableau.com/learn/training/20201)<br>
 [course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
 8. Model Deployment <br>
 [Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
