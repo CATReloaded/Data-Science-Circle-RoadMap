@@ -30,6 +30,8 @@
 4. Pandas<br>
 [Tutorial](https://www.kaggle.com/learn/pandas)<br>
 [Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
+[course1](https://learn.datacamp.com/courses/pandas-foundations)<br>
+[course2](https://learn.datacamp.com/courses/manipulating-dataframes-with-pandas)<br>
 5. Numpy<br>
 [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
 [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
