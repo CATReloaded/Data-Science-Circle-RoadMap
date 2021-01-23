@@ -5,7 +5,7 @@
 
 ## [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")
 
-! [CAT Logo](img/icon.png)
+![CAT Logo](img/icon.png)
 
 ------------
 
@@ -45,7 +45,7 @@
 
 📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/375956410319681/?active_tab=discussion "Event") in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in Circles meant for different fields.
 
-! [CAT Logo](img/m.jpg)
+![CAT Logo](img/m.jpg)
 ------------
 
 
