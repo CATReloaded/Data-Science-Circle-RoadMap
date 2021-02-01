@@ -54,3 +54,5 @@
 **If you need to climb stairs, you must tread the first stair.**
 The CS fundamentals are the first stair in CS stairs, It will help you to understand how the computer works, how to deal with data, how to deal with code and many other things you should know to go freely on your career. Whatever the CS technology you choose to learn you need these fundamentals. 
 Many people who decided to start directly learn one of CS technology suffering from a Lack of some skills and information and they wasting their times to go back and learn what they need and the process is repeated continuously.
+
+## To be added soon: specialized content in CV,NLP,GANS.
