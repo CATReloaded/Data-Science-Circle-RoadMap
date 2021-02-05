@@ -102,6 +102,7 @@ APIs <br>
 [Book](https://b-ok.cc/book/3583182/056a36)<br>
 8. Interpreting ML models ****more to be added here*** <br/>
 [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
+[Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 
 ###  After finishing this level apply to 2 or 3 good sized projects.
 
